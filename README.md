@@ -79,3 +79,21 @@ class StudentsModel
   }
 }
 ```
+
+<h1></h1>
+
+<h3 align="center">Dialog Box</h3>
+
+<h1></h1>
+
+<div align="center">
+  <img height="550" src="https://github.com/OmBharsakle/Quote-App-Daily-Task/assets/149371245/c9015ef2-f6f1-47ac-9f89-d5b6d9199626"/>
+  <img height="550" src="https://github.com/OmBharsakle/Quote-App-Daily-Task/assets/149371245/0649189a-fb24-4c5d-9f57-9d6d963fc2c7"/>
+
+
+
+https://github.com/OmBharsakle/Quote-App-Daily-Task/assets/149371245/aacc286a-cbe2-4f74-bd64-d4ee8b6d2631
+
+
+
+</div> 
