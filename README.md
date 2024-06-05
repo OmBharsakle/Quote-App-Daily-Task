@@ -112,3 +112,21 @@ https://github.com/OmBharsakle/Quote-App-Daily-Task/assets/149371245/66adf6f0-a0
 
 
 </div> 
+
+<h1></h1>
+
+<h3 align="center">Listview to Gridview Toggle View</h3>
+
+<h1></h1>
+
+<div align="center">
+  <img height="550" src="https://github.com/OmBharsakle/Quote-App-Daily-Task/assets/149371245/338795f0-d765-4d7f-a4b7-ddf3174ff730"/>
+  <img height="550" src="https://github.com/OmBharsakle/Quote-App-Daily-Task/assets/149371245/97449a2d-a7fc-47c5-8c23-ae59a4e440a3"/>
+
+
+https://github.com/OmBharsakle/Quote-App-Daily-Task/assets/149371245/f3f18484-6e5f-4412-8216-b001a13cf338
+
+
+
+
+</div> 
